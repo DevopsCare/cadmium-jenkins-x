@@ -1,0 +1,14 @@
+addReviewers: true
+addAssignees: true
+reviewers:
+  - okgolove
+  - rfvermut
+numberOfReviewers: 0
+assignees:
+  - okgolove
+  - rfvermut
+numberOfAssignees: 1
+
+
+skipKeywords:
+  - wip
